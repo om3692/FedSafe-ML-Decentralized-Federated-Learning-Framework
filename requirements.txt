@@ -1,0 +1,13 @@
+# ==========================================
+# Project: FedSafe-ML: Decentralized Federated Learning Framework
+# Author: Om Awalekar
+# PRN: 32458020002
+# File: requirements.txt
+# ==========================================
+
+# Core Federated Learning and Deep Learning dependencies
+flwr==1.7.0
+torch==2.1.2
+torchvision==0.16.2
+numpy==1.26.2
+typing-extensions==4.9.0
