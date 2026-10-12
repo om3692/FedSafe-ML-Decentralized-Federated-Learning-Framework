@@ -33,3 +33,5 @@ graph TD
     class S server;
     class C1,C2,C3 client;
 
+```
+<img width="2237" height="1397" alt="image" src="https://github.com/user-attachments/assets/8bc3a1e5-26ae-4df2-a9bd-08f0515fb85b" />
