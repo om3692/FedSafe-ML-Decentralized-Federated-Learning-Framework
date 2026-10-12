@@ -1,8 +1,5 @@
 # FedSafe-ML: Decentralized Federated Learning Framework
 
-**Author:** Om Awalekar  
-**PRN:** 32458020002  
-**Target:** Master's Program Application Portfolio (AI/ML Engineering)
 
 ## Overview
 FedSafe-ML is a production-grade simulation of a privacy-preserving Federated Learning (FL) pipeline. It demonstrates the capability to train deep neural networks on decentralized data silos without exchanging raw data, mitigating data privacy risks while still converging on a highly accurate global model.
