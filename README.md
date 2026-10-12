@@ -32,3 +32,6 @@ graph TD
     classDef client fill:#bbf,stroke:#333,stroke-width:2px;
     class S server;
     class C1,C2,C3 client;
+
+
+<img width="2237" height="1397" alt="image" src="https://github.com/user-attachments/assets/9a147524-3736-48a4-9256-f26fbe76bf44" />
